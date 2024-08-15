@@ -10,7 +10,7 @@
 - **Programming Languages**: Python
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Deep Learning**: Neural Networks, CNNs, RNNs
+- **Deep Learning**: Neural Networks, CNNs, RNNs, MLP, LSTM
 - **Databases**: MySQL, SQLite3
 - **Tools & IDEs**: Jupyter Notebook, Google Colab, VS Code
 
@@ -28,7 +28,7 @@
   Analyzing Youtubers Entertaiment category using python and matplotlib visualization.
 
 - **[Project 4: Social Media Sentiment Analysis API](https://github.com/dwindaayu/Social-Media-Sentiment-Analysis-API)**  
-  Developing an API that takes a social media comments as input and returns the sentiment (positive, negative, or neutral) using deep learning models (CNN and LSTM).
+  Developing an API that takes a social media comments as input and returns the sentiment (positive, negative, or neutral) using deep learning models (MLP and LSTM).
 
 - **[Project 5: Social Media Comment Cleansing API](https://github.com/dwindaayu/Social-Media-Comment-Cleansing-API)**  
   Built an API that cleanses and processes social media comments to enhance readability by removing noise like special characters, slang, and excessive punctuation.
