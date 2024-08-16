@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Dwinda Ayu Prihantini]!
 
-🎯 Aspiring **Data Scientist** | **Data Analyst**  
+🎯 **Data Scientist** & **Data Analyst** Enthusiast
 💻 Passionate about solving real-world problems with data-driven insights.
 
 ---
