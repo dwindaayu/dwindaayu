@@ -11,7 +11,7 @@
 - **Machine Learning**: Scikit-learn, TensorFlow, Keras
 - **Deep Learning**: Neural Networks, CNNs, RNNs, MLP, LSTM
 - **Databases**: MySQL, SQLite3
-- **Tools & IDEs**: Jupyter Notebook, Google Colab, VS Code
+- **Tools & IDEs**: Jupyter Notebook, Google Colab, VS Code, Microsoft Excel, Power BI
 
 ---
 
