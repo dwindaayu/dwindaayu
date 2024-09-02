@@ -17,19 +17,22 @@
 
 ### 📊 Projects
 
-- **[Project 1: Bike Store Sales Analysis with Excel](https://github.com/dwindaayu/Bike-Store-Sales-Analysis)**  
+- **[Project 1: Supermarket Sales Analysis with Power BI](https://github.com/dwindaayu/Bike-Store-Sales-Analysis)**  
+  Performed detailed sales analysis for a supermarket using Power BI, focusing on data visualization and reporting.
+  
+- **[Project 2: Bike Store Sales Analysis with Excel](https://github.com/dwindaayu/Bike-Store-Sales-Analysis)**  
   Performed detailed sales analysis for a bike store using Excel, focusing on data visualization and reporting.
 
-- **[Project 2: House Price Prediction](https://github.com/dwindaayu/House-Price-Prediction)**  
+- **[Project 3: House Price Prediction](https://github.com/dwindaayu/House-Price-Prediction)**  
   Predicting house prices using Random Forest.
 
-- **[Project 3: Youtube Data Analysis](https://github.com/dwindaayu/YouTube-Data-Analysis)**  
+- **[Project 4: Youtube Data Analysis](https://github.com/dwindaayu/YouTube-Data-Analysis)**  
   Analyzing Youtubers Entertaiment category using python and matplotlib visualization.
 
-- **[Project 4: Social Media Sentiment Analysis API](https://github.com/dwindaayu/Social-Media-Sentiment-Analysis-API)**  
+- **[Project 5: Social Media Sentiment Analysis API](https://github.com/dwindaayu/Social-Media-Sentiment-Analysis-API)**  
   Developing an API that takes a social media comments as input and returns the sentiment (positive, negative, or neutral) using deep learning models (MLP and LSTM).
 
-- **[Project 5: Social Media Comment Cleansing API](https://github.com/dwindaayu/Social-Media-Comment-Cleansing-API)**  
+- **[Project 6: Social Media Comment Cleansing API](https://github.com/dwindaayu/Social-Media-Comment-Cleansing-API)**  
   Built an API that cleanses and processes social media comments to enhance readability by removing noise like special characters, slang, and excessive punctuation.
 
 ---
