@@ -17,7 +17,7 @@
 
 ### 📊 Projects
 
-- **[Project 1: Supermarket Sales Analysis with Power BI](https://github.com/dwindaayu/Bike-Store-Sales-Analysis)**  
+- **[Project 1: Supermarket Sales Analysis with Power BI](https://github.com/dwindaayu/Supermarket-Sales-Analysis-with-Power-BI)**  
   Performed detailed sales analysis for a supermarket using Power BI, focusing on data visualization and reporting.
   
 - **[Project 2: Bike Store Sales Analysis with Excel](https://github.com/dwindaayu/Bike-Store-Sales-Analysis)**  
